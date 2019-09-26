@@ -311,12 +311,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .ar-personal #ar-about {
-	background-color: rgba(0, 0, 0, 0.7);
+	background-color: rgba(0, 0, 0, 0.65);
 	/* background: #FFFFFF; */
 }
 
 #ar-about .about-intro {
-	padding: 150px 20px 50px 20px;
+	padding: 100px 20px 50px 20px;
 	height: 100%;
 	overflow: hidden;
 }
@@ -1612,7 +1612,7 @@ label {
 	}
 
 	#ar-about .about-intro {
-		padding: 150px 50px 50px 50px;
+		padding: 100px 50px 50px 50px;
 		overflow: hidden;
 	}
 
@@ -1821,9 +1821,8 @@ label {
 
 .share{
 	display: inline-block;
-	padding-right: 20px;
 	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-bottom: 60px;
 }
 
 /* --------------------------------------------------
