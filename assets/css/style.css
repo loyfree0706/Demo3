@@ -771,8 +771,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-logo img{
-	height: 150px;
-	width: 150px;
+	height: 100%;
+	width: 100%;
 }
 
 .app-main .main-logo {
@@ -1657,8 +1657,8 @@ label {
 		}
 
 		.main-logo img{
-			height: 100px;
-			width: 100px;
+			height: 100%;
+			width: 100%;
 		}
 		
 		.app-main .main-logo {
