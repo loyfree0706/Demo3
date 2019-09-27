@@ -493,7 +493,6 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 1
 }
 
-
 #ar-about.is-active {
 	-webkit-transform: translateX(0);
 	-moz-transform: translateX(0);
@@ -1613,7 +1612,7 @@ label {
 
 	#ar-about .about-intro {
 		padding: 100px 50px 50px 50px;
-		overflow: hidden;
+		overflow: visible;
 	}
 
 	.cs-about .about-intro {
